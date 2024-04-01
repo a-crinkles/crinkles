@@ -20,16 +20,12 @@
 
 ---
 <div align="center">
-  <a href="https://open.spotify.com/user/Dye">
+  <a href="https://open.spotify.com/user/31dy4c7exbtbqornbevyefamxtta">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Dye&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/a-crinkles/a-crinkles/output/snake.svg" alt="Snake animation" />
 
 ###
 ---

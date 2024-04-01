@@ -18,6 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=a-crinkles&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-crinkles&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 <div align="center">
   <a href="https://open.spotify.com/user/Dye">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Dye&count=1&unique=false" alt="Spotify recently played"  />
@@ -32,6 +33,6 @@
 
 ###
 ---
-[![](https://visitcount.itsvg.in/api?id=a-crinkles&icon=7&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=a-crinkles&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
